@@ -1,5 +1,5 @@
 ### Program Assignment #2: Rick Young
-Test to upload to Github
+Created function from original template and commit
 
 ### Introduction
 
