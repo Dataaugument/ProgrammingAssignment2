@@ -1,5 +1,5 @@
 ### Program Assignment #2: Rick Young
-Created function from original template and commit
+Created function from original instructor template and reference examples
 
 ### Introduction
 
