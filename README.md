@@ -1,3 +1,6 @@
+### Program Assignment #2: Rick Young
+Test to upload to Github
+
 ### Introduction
 
 This second programming assignment will require you to write an R
